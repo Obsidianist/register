@@ -1,0 +1,11 @@
+{
+  "description": "My personal blog powered by Obsidian Quartz",
+  "repo": "https://github.com/Obsidianist/Obsidianist",
+  "owner": {
+    "username": "Obsidianist",
+    "email": "Obsidianist0@gmail.com"
+  },
+  "records": {
+    "CNAME": "obsidianist.pages.dev"
+  }
+}
